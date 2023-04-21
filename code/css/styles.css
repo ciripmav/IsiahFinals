@@ -11099,6 +11099,7 @@ body {
   color: #212529;
 }
 
+
 .masthead {
   position: relative;
   width: 100%;
@@ -11113,6 +11114,20 @@ body {
 }
 
 /* About Page */
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  border-radius: 0.3rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+
+}
+
+.jumbotron h1,
+.jumbotron p {
+  font-size: 1em;
+  color: #212529;
+}
 .masthead2 {
   position: relative;
   width: 100%;
@@ -11127,6 +11142,20 @@ body {
 }
 
 /* Project Page */
+.jumbotron2 {
+  background-color: #000;
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  border-radius: 0.3rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+
+}
+
+.jumbotron2 h1,
+.jumbotron2 p {
+  font-size: 1em;
+  color: white;
+}
 .masthead3 {
   position: relative;
   width: 100%;
@@ -11141,6 +11170,20 @@ body {
 }
 
 /* Contact Page */
+.jumbotron3 {
+  background-color: #000;
+  padding: 10rem 5rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+  height: 10rem;
+
+}
+
+.jumbotron3 h1,
+.jumbotron3 p {
+  font-size: 3em;
+  color: white;
+  text-align: center;
+}
 .masthead4 {
   position: relative;
   width: 100%;
@@ -11409,4 +11452,8 @@ body {
 
 .footer {
   padding: 5rem 0;
+}
+.footer2 {
+  padding: 5rem 0;
+
 }
