@@ -11088,6 +11088,21 @@ body {
   border: 0;
 }
 /* Home Page */
+.jumbotron {
+  background-color: #f8f9fa;
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  border-radius: 0.3rem;
+  box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+
+}
+
+.jumbotron h1,
+.jumbotron p {
+  font-size: 1em;
+  color: #212529;
+}
+
 .masthead {
   position: relative;
   width: 100%;
