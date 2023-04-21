@@ -11216,7 +11216,7 @@ body {
 }
 
 /* Home Page */
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .masthead h1, .masthead .h1 {
     font-size: 0rem;
     line-height: 4rem;
@@ -11240,7 +11240,7 @@ body {
 
 /* About Page */
 
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .masthead2 h1, .masthead2 .h1 {
     font-size: 0rem;
     line-height: 4rem;
@@ -11263,7 +11263,7 @@ body {
 }
 
 /* Project Page */
-@media (min-width: 768px) {
+@media (min-width: 992px) {
   .masthead3 h1, .masthead3 .h1 {
     font-size: 0rem;
     line-height: 4rem;
@@ -11286,7 +11286,7 @@ body {
 }
 
 /* Contact Page */
-@media (min-width: 768px) {
+@media (min-width:992px) {
   .masthead4 h1, .masthead4 .h1 {
     font-size: 0rem;
     line-height: 4rem;
